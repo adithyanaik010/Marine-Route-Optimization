@@ -1,6 +1,6 @@
 # Marine Route Optimization Using Machine Learning
 
-This project implements a machine learning-based approach to optimize marine routes, taking into account various environmental and navigational factors. The system processes AIS (Automatic Identification System) data alongside oceanographic data from CMEMS (Copernicus Marine Environment Monitoring Service) to predict and optimize vessel routes.
+This project implements a machine learning-based approach to optimize marine routes, taking into account various environmental and navigational factors. The system processes AIS (Automatic Identification System) data alongside oceanographic data from CMEMS (Copernicus Marine Environment Monitoring Service) to predict and optimize vessel routes.ss
 
 ## Project Structure
 
